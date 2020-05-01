@@ -1,4 +1,3 @@
-A
 Ababil
 Abadət
 Abagül
@@ -295,7 +294,7 @@ Ayca
 Aycabəyim
 Aycamal
 Aycan
-AycanisəAyçiçək
+Aycanisə
 Aycanə
 Aycaxanım
 Ayda
@@ -406,6 +405,7 @@ Ayzangül
 Ayzər
 Ayçin
 Ayçinə
+Ayçiçək
 Ayçöhrə
 Ayüz
 Ayüzlü
@@ -506,7 +506,6 @@ Aşirə
 Aşkina
 Aşura
 Aşurey
-B
 Bacı
 Bacıgül
 Bacınaz
@@ -629,7 +628,8 @@ Bibican
 Bibigül
 Bibinaz
 Bibinisə
-BibixanımBibiqız
+Bibiqız
+Bibixanım
 Bikə
 Bikəbacı
 Bikəbəyim
@@ -813,7 +813,6 @@ Bəzər
 Bəşarət
 Bəşirə
 Bəşirət
-C
 Cabirə
 Cahan
 Cahanbanu
@@ -935,7 +934,6 @@ Cəzmiyə
 Cəzrəbəyim
 Cəzrənisə
 Cəzrəxanım
-D
 Dalğa
 Damla
 Danqız
@@ -970,9 +968,10 @@ Dildarə
 Dilfuzə
 Dilfərəh
 Dilfəza
+Dilguzə
 Dilguşa
 Dilguşad
-DilguşəDilguzə
+Dilguşə
 Dilhaz
 Dilistan
 Dilişad
@@ -1108,7 +1107,6 @@ Dəstənur
 Dəstəqız
 Dəstəxanım
 Dəstəzər
-E
 Edvina
 Edvinə
 Efira
@@ -1143,7 +1141,6 @@ Elfira
 Elfirə
 Elfrida
 Elginarə
-Elginay
 Elginay
 Elginə
 Elgül
@@ -1249,7 +1246,6 @@ Eyzəngül
 Eyzənqız
 Eşqinə
 Eşqiyyə
-F
 Fabilə
 Fadilə
 Fahimə
@@ -1485,7 +1481,6 @@ Fəzanə
 Fəzilə
 Fəzilət
 Fəğanə
-G
 Gaviyə
 Genrida
 Gilanaz
@@ -1495,7 +1490,8 @@ Gilasbəyim
 Gilasxanım
 Gilavar
 Gilavər
-GilazərGilə
+Gilazər
+Gilə
 Giləbacı
 Giləbəyim
 Gilənar
@@ -1807,9 +1803,10 @@ Gülzalə
 Gülzani
 Gülzanə
 Gülzar
-GülzarəGülzədə
+Gülzarə
 Gülziba
 Gülziya
+Gülzədə
 Gülzəfər
 Gülzəmi
 Gülzən
@@ -1952,7 +1949,6 @@ Gəncay
 Gəncəbanu
 Gəncəxanım
 Gərəkməz
-H
 Hacibə
 Hacıbikə
 Hacıbəyim
@@ -2201,7 +2197,6 @@ Həyətgül
 Həzarə
 Həzinə
 Həşəmət
-J
 Jaket
 Jalə
 Jaləbəyim
@@ -2209,8 +2204,8 @@ Jaləgül
 Jaləxanım
 Jasmen
 Jasmin
-K
 Kabutər
+Kabı
 Kabıbəyim
 Kabınisə
 Kabıxanım
@@ -2267,7 +2262,7 @@ Kündəbəyim
 Kündəxanım
 Kürnaz
 Kürsüm
-Kürsümxa-
+Kürsümxanım
 Kürüz
 Küsgün
 Küsgünə
@@ -2306,7 +2301,6 @@ Kəsirət
 Kətanə
 Kəzban
 Kəşfiyyə
-L
 Labidə
 Labudə
 Labüdə
@@ -2422,7 +2416,6 @@ Ləzalət
 Ləzifə
 Ləzizə
 Ləzmiyə
-M
 Maarifə
 Macəra
 Madiya
@@ -2713,7 +2706,7 @@ Möhtaban
 Möminat
 Möminə
 Möminət
-Möminəxa-
+Möminəxatun
 Mövludə
 Mövrəstə
 Mövsumə
@@ -2771,7 +2764,7 @@ Müşafərim
 Müşfiqə
 Müşgünaz
 Müşkinaz
-Müşkinaz-
+Müşkinazbəyim
 Müşkünaz
 Müşkənbər
 Müşviqə
@@ -2882,7 +2875,8 @@ Məntiqə
 Mənzilə
 Mənzumə
 Mənzurə
-MənzərMənzərbəyim
+Mənzər
+Mənzərbəyim
 Mənzərxanım
 Mənzərə
 Mənşurə
@@ -2911,8 +2905,8 @@ Mərvanə
 Mərvinə
 Məryəm
 Məryəmnisə
-Məryəmxa-
-Məryəmxa-
+Məryəmxanım
+Məryəmxatun
 Mərziyyə
 Mərziyyət
 Mərziyə
@@ -2960,7 +2954,6 @@ Məşurə
 Məşədixanım
 Məşədxanım
 Məşədümi
-N
 Nabat
 Nabatbəyim
 Nabatnisə
@@ -3398,7 +3391,6 @@ Nəğmiyyə
 Nəğmə
 Nəşidə
 Nəşə
-O
 Ofeliya
 Ofelya
 Olay
@@ -3417,7 +3409,6 @@ Oysandıq
 Oğlanbikə
 Oğlangərək
 Oğulgərək
-P
 Pakay
 Pakayə
 Pakbəyim
@@ -3523,7 +3514,6 @@ Pərvər
 Pərvəz
 Pərzad
 Pərşan
-Q
 Qabilə
 Qadirə
 Qafilə
@@ -3734,7 +3724,6 @@ Qəyanə
 Qəzalə
 Qəşəng
 Qəşənggül
-R
 Rabilə
 Rabinə
 Rabitə
@@ -3911,7 +3900,8 @@ Rumiyə
 Ruqiyyə
 Ruqiyyət
 Ruqiyyəxanım
-RuqəyyəRuqiyə
+Ruqiyə
+Ruqəyyə
 Rusalə
 Ruslanə
 Ruxsar
@@ -4040,7 +4030,6 @@ Rəşanə
 Rəşidə
 Rəşinaz
 Rəşiqə
-S
 Sabagül
 Sabah
 Sabahbəyim
@@ -4504,7 +4493,8 @@ Süsanə
 Süsən
 Süsənbər
 Süsəngül
-SüsənxanımSüsənzər
+Süsənxanım
+Süsənzər
 Sütun
 Süveyrat
 Süzalə
@@ -4581,7 +4571,8 @@ Səfayə
 Səfayət
 Səfazər
 Səfaət
-SəfinazSəfinə
+Səfinaz
+Səfinə
 Səfiqə
 Səfiyyə
 Səfiyə
@@ -4746,7 +4737,6 @@ Səyahət
 Səyalı
 Səyyadə
 Səyyarə
-T
 Taarifə
 Tabilə
 Tabərik
@@ -5137,7 +5127,6 @@ Təzənur
 Təzəxanım
 Təzəzər
 Təşrifə
-U
 Ubeyda
 Ucazər
 Uculay
@@ -5156,9 +5145,10 @@ Umayra
 Umayə
 Umbacı
 Umbikə
-UmbəyimUmleyla
+Umbəyim
 Umcahan
 Umgülsüm
+Umleyla
 Ummanə
 Ummi
 Ummügülsüm
@@ -5197,7 +5187,6 @@ Uğurnaz
 Uğurnisə
 Uğurxanım
 Uğurzər
-V
 Vacibə
 Vahibə
 Vahidə
@@ -5279,7 +5268,6 @@ Vəzirə
 Vəzuhə
 Vəzzuha
 Vəzöhə
-X
 Xada
 Xadabəyim
 Xadanisə
@@ -5329,7 +5317,8 @@ Xanzad
 Xanzada
 Xanzər
 Xanı
-XanıbəyimXanıcan
+Xanıbəyim
+Xanıcan
 Xanıgül
 Xanım
 Xanımana
@@ -5503,7 +5492,6 @@ Xəzri
 Xəzribəyim
 Xəzrixanım
 Xəzəriyyə
-Y
 Yamilə
 Yaminə
 Yanargül
@@ -5604,7 +5592,6 @@ Yəmən
 Yəməngül
 Yəmənzər
 Yəğmanaz
-Z
 Zabilə
 Zabirə
 Zabitə
@@ -5649,7 +5636,8 @@ Zavilə
 Zaviyə
 Zayidə
 Zayiqə
-ZayirəZemfira
+Zayirə
+Zemfira
 Zenfira
 Zeybə
 Zeyla
@@ -5875,13 +5863,6 @@ Zərəndam
 Zərəngiz
 Zərəngül
 Zəvər
-bəyim
-m
-nım
-nım
-tun
-tun
-Ç
 Çalıquşu
 Çaylı
 Çağlak
@@ -5952,7 +5933,6 @@ tun
 Çəmənzar
 Çəmənzər
 Çəriyyat
-Ö
 Ömürtac
 Önay
 Ötgünə
@@ -5965,7 +5945,6 @@ tun
 Öznur
 Öznurə
 Özxanım
-Ü
 Übeydə
 Üfiqbəyim
 Üfiqxanım
@@ -6003,7 +5982,7 @@ tun
 Ümleyla
 Ümmanə
 Ümmi
-Ümmügülsü
+Ümmügülsüm
 Ümmülbanu
 Ümnisə
 Ümxanım
@@ -6044,7 +6023,6 @@ tun
 Üzzəbəyim
 Üzzənisə
 Üzzəxanım
-İ
 İbadət
 İbariyə
 İdamə
@@ -6100,7 +6078,6 @@ tun
 İmminisə
 İmmixanım
 İmmiyə
-İmmə
 İmmə
 İmnisə
 İmperial
@@ -6194,11 +6171,10 @@ tun
 İztirab
 İzzər
 İzzətbəyim
-İzzətxanımKabı
+İzzətxanım
 İşarə
 İşvəkar
 İşvəli
-Ş
 Şabacı
 Şabikə
 Şabəyim
@@ -6496,7 +6472,6 @@ tun
 Şəxsiyyə
 Şəymə
 Şəymən
-Ə
 Əbabil
 Əbadət
 Əbixanım
